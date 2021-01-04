@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/tmcosby/rebnerioh",
+  "<mcversion>": {
+    "0.0.1": "https://github.com/tmcosby/rebnerioh>"
+  },
+  "promos": {
+    "0.0.1-latest": "0.0.1",
+    "0.0.1-recommended": "0.0.1"
+  }
+}
